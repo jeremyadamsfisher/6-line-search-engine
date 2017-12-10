@@ -2,3 +2,5 @@
 This project demonstrates how to write a fast, robust document search engine using trivial python code and NLTK.
 
 Not including data cleaning or import statements, it consists of six lines of code to index the document (in this case, all of Shakespeare) and one line to search the index.
+
+The code is demonstrated in the [Jupyter notebook](https://github.com/jeremyadamsfisher/7-line-search-engine/blob/master/Searchspeare.ipynb) above.
